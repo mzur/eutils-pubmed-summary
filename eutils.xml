@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content">
+	<name>EUtils PubMed</name>
+	<author>Martin Zurowietz</author>
+	<creationDate>October 2013</creationDate>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>martin@cebitec.uni-bielefeld.de</authorEmail>
+	<version>1.2.0</version>
+	<description>A plugin for including automatically generated summaries of PubMed articles.</description>
+	<files>
+		<filename plugin="eutils">eutils.php</filename>
+		<filename>index.html</filename>
+		<folder>js</folder>
+	</files>
+</extension>
