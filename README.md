@@ -5,7 +5,7 @@ A Joomla! 3 plugin for including automatically generated summaries of PubMed art
 
 ## Installation
 
-Get the latest [release](../releases) and install it using the Joomla Extension Manager. After that activate the "EUtils PubMed" plugin.
+Get the latest [release](../../releases) and install it using the Joomla Extension Manager. After that activate the "EUtils PubMed" plugin.
 
 ## Usage
 
@@ -62,7 +62,7 @@ The default output looks like this (first ```li``` of the list example above)
 </li>
 ```
 
-To customize the output, simply fork this repository and change the directive template in [eutils.js](eutils.js).
+To customize the output, simply fork this repository and change the directive template in [eutils.js](js/eutils.js).
 
 ## Issues
 
