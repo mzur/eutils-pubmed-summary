@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20060131//EN" "http://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060131/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>20541552</Id>
+	<Item Name="PubDate" Type="Date">2010 Jul 16</Item>
+	<Item Name="EPubDate" Type="Date">2010 Jun 10</Item>
+	<Item Name="Source" Type="String">FEBS Lett</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Appelhagen I</Item>
+		<Item Name="Author" Type="String">Huep G</Item>
+		<Item Name="Author" Type="String">Lu GH</Item>
+		<Item Name="Author" Type="String">Strompen G</Item>
+		<Item Name="Author" Type="String">Weisshaar B</Item>
+		<Item Name="Author" Type="String">Sagasser M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Sagasser M</Item>
+	<Item Name="Title" Type="String">Weird fingers: functional analysis of WIP domain proteins.</Item>
+	<Item Name="Volume" Type="String">584</Item>
+	<Item Name="Issue" Type="String">14</Item>
+	<Item Name="Pages" Type="String">3116-22</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0155157</Item>
+	<Item Name="ISSN" Type="String">0014-5793</Item>
+	<Item Name="ESSN" Type="String">1873-3468</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S0014-5793(10)00488-6</Item>
+		<Item Name="doi" Type="String">10.1016/j.febslet.2010.06.007</Item>
+		<Item Name="pubmed" Type="String">20541552</Item>
+		<Item Name="eid" Type="String">20541552</Item>
+		<Item Name="rid" Type="String">20541552</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.febslet.2010.06.007</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2010/05/14 00:00</Item>
+		<Item Name="revised" Type="Date">2010/06/04 00:00</Item>
+		<Item Name="accepted" Type="Date">2010/06/07 00:00</Item>
+		<Item Name="aheadofprint" Type="Date">2010/06/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2010/06/15 06:00</Item>
+		<Item Name="pubmed" Type="Date">2010/06/15 06:00</Item>
+		<Item Name="medline" Type="Date">2010/07/28 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"/>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">FEBS letters</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.febslet.2010.06.007</Item>
+	<Item Name="SO" Type="String">2010 Jul 16;584(14):3116-22</Item>
+</DocSum>
+
+</eSummaryResult>

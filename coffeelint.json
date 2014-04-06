@@ -1,0 +1,20 @@
+{
+	"arrow_spacing": {
+		"level": "warn"
+	},
+	"empty_constructor_needs_parens": {
+		"level": "warn"
+	},
+	"non_empty_constructor_needs_parens": {
+		"level": "warn"
+	},
+	"indentation": {
+		"value": 1
+	},
+	"no_tabs": {
+		"level": "ignore"
+	},
+	"space_operators": {
+		"level": "error"
+	}
+}
